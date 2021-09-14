@@ -1,0 +1,24 @@
+h1{
+    font-size: 50px;
+    color: white;
+    background-color: black;
+    padding: 0px 15px 0px 15px;
+    margin: 0px 0px 7px 0px
+}
+h1 span{
+    color: aqua;
+}
+h3{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    background-color: rgb(106, 25, 199);
+    margin: 7px 0px 7px 0px
+}
+p{
+    font-size: 20px;
+    text-align: right;
+    background-color: lightblue;
+    padding: 0px 15px 0px 15px;
+    margin: 7px 0px 7px 0px
+}
